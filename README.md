@@ -3,7 +3,6 @@
 
 A Flutter-based application built to demonstrate fetching, displaying, and interacting with data from the Hive Blog API. This project showcases the effective use of API integration to display a dynamic list of trending posts, focusing on clean UI and efficient data handling.
 
----
 
 ## Features
 
@@ -20,7 +19,6 @@ A Flutter-based application built to demonstrate fetching, displaying, and inter
   - Comments count
 - **Responsive UI**: Designed for cross-platform support, including Android, iOS, and web.
 
----
 
 ## Getting Started
 
@@ -32,7 +30,6 @@ Ensure the following are installed on your system:
 - **Dart SDK**: (Included with Flutter)
 - **Git**: Version control system to clone the repository.
 
----
 
 ### Installation
 
@@ -56,7 +53,7 @@ Ensure the following are installed on your system:
    flutter run
    ```
 
----
+
 
 ## API Details
 
@@ -79,26 +76,11 @@ curl 'https://api.hive.blog/' \
   - `tag`: Filters posts by tag (left empty for all).
   - `observer`: Observer's Hive username for context (default: `hive.blog`).
 
----
 
 ## Demo
 
 ### App Screenshot
-![App Screenshot](https://github.com/user-attachments/assets/c9cc47c5-2be2-4565-9672-485047a24560)
+<img src="https://github.com/user-attachments/assets/c9cc47c5-2be2-4565-9672-485047a24560" alt="App Screenshot" width="600">
 
 ### Demo Video
-[![Watch Demo](https://github.com/user-attachments/assets/1de96782-fa17-4aa8-a41f-c33fbb0867db)
-
----
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
----
+[Watch the Demo Video](https://github.com/user-attachments/assets/39d4a65c-6bdf-49cf-995e-fa66e2f0f2f0)
